@@ -11,6 +11,21 @@ Lastly, use the color input to pick a color, check the checkbox to say you're no
 - Next, look at the `index.html` and notice how the four sections are divided with their own comments. You'll be coming back here to find `IDs` for your `querySelectors`.
 - Lastly, in the `script.js`, there are 2 functions that you will be using in this lab: `getRandomInt()` and `is-dark(hex)`. The two functions are at the top commented out to remind you of their name. They were created for you in the `utils.js` file, and both that file and this one are already attached in the `index.html` at the bottom. They will be used in section 2 and 4.
 
+## Rubric/Grade Breakdown
+
+| Grade | Criteria |
+|:------|:-----|
+| 0 | Nothing completed or submitted|
+| 65 | 1 game completed|
+| 70-75 | 2 games completed|
+| 80-85 | 3 games completed |
+| 90-95 | 4 games completed |
+| 100 | Everything plus + bonus magic |
+
+*Low end grades are just what was asked for*
+*High end grades go above and beyond*
+
+
 ## What's Your Favorite Color?
 
 1. Let's begin! For this first section, we want to display a unique message to the user with a heart emoji that is the same color that the user picks. In the `script.js`, start by using `querySelector` to connect to the `IDs` belonging to the radio button input and the output section currently with the text "YOUR RADIO OUTPUT HERE". You'll have to find the `IDs` in the `index.html`.
